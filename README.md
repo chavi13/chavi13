@@ -12,7 +12,7 @@
 
 ### Here's a quick summary about me:
 
-- 👨‍💼 Pronouns: he/him
+- 👨‍💼 Pronouns: she/her
 - 🌱 I’m currently learning Nextjs, Nodejs, Express.
 - 👨‍💻 Technologies I enjoy working with: React.js, Tailwind Css, Express 
 - 📂 I’m open to: Job's, Internships, Hackathons, & Open source projects.
@@ -24,38 +24,24 @@
 
 ### Languages, Frameworks & Libraries:
 
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=4B8Bff)
-![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![reactjs](https://img.shields.io/badge/React.js-303030?style=for-the-badge&logo=react&logoColor=61DAFB)
-![nextjs](https://img.shields.io/badge/Next.js-303030?style=for-the-badge&logo=next.js&logoColor=white)
-![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![expressjs](https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=express&logoColor=68a063)
-![mongodb](https://img.shields.io/badge/mongodb-023430?style=for-the-badge&logo=mongodb&logoColor=589636)
-
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=matplotlib&logoColor=white)
 ---
 
 ### Tools:
 
 ![git](https://img.shields.io/badge/git-303030?style=for-the-badge&logo=git&logoColor=f34f29)
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![vim](https://img.shields.io/badge/vim-339933.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![Amazon](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=Amazon&logoColor=ff9900)
-![neovim](https://img.shields.io/badge/neovim-0590cc.svg?&style=for-the-badge&logo=neovim&logoColor=339933)
-![postman](https://img.shields.io/badge/postman-CB3837.svg?&style=for-the-badge&logo=postman&logoColor=white)
 ![github](https://img.shields.io/badge/github-303030.svg?&style=for-the-badge&logo=github&logoColor=white)
-![virtualbox](https://img.shields.io/badge/virtualbox-2e3156.svg?&style=for-the-badge&logo=virtualbox&logoColor=white)
-![ubuntu](https://img.shields.io/badge/ubuntu-FB6950.svg?&style=for-the-badge&logo=ubuntu&logoColor=ffffff)
 ![pycharm](https://img.shields.io/badge/PyCharm-ffd43b.svg?&style=for-the-badge&logo=PyCharm&logoColor=000000)
-![linux](https://img.shields.io/badge/linux-fff.svg?&style=for-the-badge&logo=linux&logoColor=000)
 ![powershell](https://img.shields.io/badge/powershell-000.svg?&style=for-the-badge&logo=powershell&logoColor=fff)
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![vercel](https://img.shields.io/badge/Vercel-303030?style=for-the-badge&logo=vercel&logoColor=white)
-![render](https://img.shields.io/badge/render-303030?style=for-the-badge&logo=render&logoColor=2311AB00)
+
 
 ---
 
